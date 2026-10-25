@@ -5,6 +5,8 @@ iPadin kotivalikkoon. Suunnitelma: [SUUNNITTELU.md](SUUNNITTELU.md).
 
 Ei build-vaihetta: pelkkää HTML:ää, CSS:ää ja JavaScript-moduuleja.
 
+**Pelaa:** https://ristoniemela-code.github.io/tavusaari/ (GitHub Pages, päivittyy `main`-haarasta).
+
 ## Mitä prototyypissä on (vaihe 1)
 
 - **Kirjaimet a i u o e s l m.** Ensimmäinen saari avaa a, i ja u. Seuraava kirjain avautuu, kun
